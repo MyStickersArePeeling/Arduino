@@ -1,7 +1,8 @@
-Projects using the 8x8 LED matrix, [788BS](http://www.chromeled.com/pdf/display/dot-matrix/CDMA8807R2WB.pdf)
+#####Projects using the 8x8 LED matrix, [788BS](http://www.chromeled.com/pdf/display/dot-matrix/CDMA8807R2WB.pdf)
 
-face.ino
-  Display a pixel face using the LEDs
+######face.ino
+  
+              Display a pixel face using the LEDs
   
   
   Equipment:  
